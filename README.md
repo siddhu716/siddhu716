@@ -6,24 +6,27 @@
 💻 Hands-on learner (TryHackMe | Hack The Box) 
 
 Repository Contents
-🔍 Enumeration
+🔍 Enumeration==
   Nmap scanning
   SMB, FTP, HTTP enumeration
-  Service detection techniques
-💥 Exploitation
+  Service detection techniques....
+  
+💥 Exploitation==
   Web vulnerabilities (SQLi, XSS, etc.)
   Basic exploitation techniques
-  Metasploit usage
-🛠️ Tools & Scripts
+  Metasploit usage....
+  
+🛠️ Tools & Scripts==
   Custom automation scripts
   Recon tools
-  Useful commands & cheatsheets
-📚 Labs & Writeups
+  Useful commands & cheatsheets....
+  
+📚 Labs & Writeups==
   TryHackMe walkthroughs
   Hack The Box notes
-  Real-world scenario practice
+  Real-world scenario practice....
 
-GOALS
+GOALS==
 Crack CEH Certification
 Become a Professional Penetration Tester
 Start Bug Bounty Hunting

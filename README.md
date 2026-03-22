@@ -3,9 +3,8 @@
 🎯 Aspiring Penetration Tester
 📚 Currently learning: CEH, Network Security, Web Exploitation
 🔐 Passionate about breaking systems to make them secure
-💻 Hands-on learner (TryHackMe | Hack The Box) 
+💻 Hands-on learner (TryHackMe | Hack The Box) ....
 
-Repository Contents
 🔍 Enumeration==
   Nmap scanning
   SMB, FTP, HTTP enumeration
